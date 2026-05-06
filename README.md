@@ -1,6 +1,7 @@
 # CMB TT Phase Shift Reconstruction
+My final project will explore the neutrino-induced acoustic phase shift as a robust signature of free-streaming radiation. The phase shift is interesting because as shown in Follin 2015 (the same paper referenced in the class notes), it arises under very restrictive conditions. For adiabatic initial conditions, this would mean perturbations that propagate faster than the photon-baryon sound speed. This makes the phase shift a relatively clean probe of beyond-ΛCDM physics and less susceptible to degeneracies that affect things like overall amplitudes. As a focused starting point, I will work from the analysis framework and physical interpretation emphasized in Baumann 2016.
 
-This repository contains a short final-project notebook exploring the acoustic phase shift in the CMB temperature power spectrum caused by free-streaming radiation, especially the cosmic neutrino background.
+This repository contains my final-project notebook exploring the acoustic phase shift in the CMB temperature power spectrum caused by free-streaming radiation, especially the cosmic neutrino background.
 
 The analysis compares CLASS-generated TT spectra across several `N_eff` values, removes smooth broadband changes, and fits a simple horizontal template shift `Delta ell` to isolate the phase-like residual.
 
