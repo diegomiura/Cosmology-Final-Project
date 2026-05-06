@@ -1,6 +1,6 @@
 # CMB TT Phase Shift Reconstruction
 
-This repository contains a short final-project notebook exploring the acoustic phase shift in the CMB temperature power spectrum caused by free-streaming radiation, especially the cosmic neutrino background.
+This repository contains my final-project notebook exploring the acoustic phase shift in the CMB temperature power spectrum caused by free-streaming radiation, especially the cosmic neutrino background.
 
 The analysis compares CLASS-generated TT spectra across several `N_eff` values, removes smooth broadband changes, and fits a simple horizontal template shift `Delta ell` to isolate the phase-like residual.
 
